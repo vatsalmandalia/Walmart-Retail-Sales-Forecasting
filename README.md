@@ -1,4 +1,6 @@
+
 # Time-Forecasting-Retail-Sales
+![walmart-ecommerce-sales](https://github.com/vatsalmandalia/Time-Forecasting-Retail-Sales/assets/63712490/ce3421ee-7eff-4dac-9c10-f8ecd5816a29)
 
 ## **Context**:
 
