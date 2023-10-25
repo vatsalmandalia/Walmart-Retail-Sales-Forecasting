@@ -1,5 +1,5 @@
 
-# Time-Forecasting-Retail-Sales
+# Forecasting Weekly Sales for Walmart Retail Stores
 ![walmart-ecommerce-sales](https://github.com/vatsalmandalia/Time-Forecasting-Retail-Sales/assets/63712490/ce3421ee-7eff-4dac-9c10-f8ecd5816a29)
 
 ## **Context**:
@@ -12,10 +12,10 @@ Walmart, one of the leading retail stores in the USA, wants to predict the sales
 3.	Provide recommended actions based on the insights drawn, with prioritization placed on largest business impact
 
 ## **Datasets Information**:
-1. ### **Stores**
+1. **Stores**
 - Anonymized information about the 45 stores, indicating the type and size of store
-2. ### **Features**
-Contains additional data related to the store, department, and regional activity for the given dates.
+2. **Features**
+- Contains additional data related to the store, department, and regional activity for the given dates.
 - Store - the store number
 - Date - the week
 - Temperature - average temperature in the region
@@ -24,7 +24,7 @@ Contains additional data related to the store, department, and regional activity
 - CPI - the consumer price index
 - Unemployment - the unemployment rate
 - Is Holiday - whether the week is a special holiday week
-3. ### **Sales**
+3. **Sales**
 - Historical sales data, which covers to 2010-02-05 to 2012-11-01. Within this tab you will find the following fields:
 - Store - the store number
 - Dept - the department number
@@ -45,3 +45,5 @@ Contains additional data related to the store, department, and regional activity
 - SARIMAX model
 - Predicting for future dates
 - Conclusion
+
+This is the google colab link of the project - [Google Colab](https://colab.research.google.com/drive/1ADuAljjS98ocMcGExwKrLPuRcC1nF9jc?usp=sharing#scrollTo=sLZwvh7JYl1J)
